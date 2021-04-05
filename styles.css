@@ -2,9 +2,9 @@ body {
     background-color: #ea6927;
 }
 
-img {
+#img-carrusel {
     width: 513.828px;
-    height: 489px;
+    height: 539px;
 }
 
 footer {
@@ -33,4 +33,11 @@ footer {
     border-top-style: solid;
     border-bottom-width: 1px;
     border-bottom-style: solid;
+}
+
+.img-perfil {
+    width: 800px;
+    height: 550px;
+    display: flex;
+    margin: auto;
 }
